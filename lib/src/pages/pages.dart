@@ -1,0 +1,10 @@
+export 'home/home_page.dart';
+export 'info/info_page.dart';
+export 'login/login_page.dart';
+//export 'movie/upcoming_movie_page.dart';
+//export 'movie/movie_detail_page.dart';
+//export 'movie/video_page.dart';
+//export 'condo/condo_manag.dart';
+//export 'scan/qr_create_page.dart';
+//export 'scan/qr_scan_page.dart';
+export 'condo/condo_page.dart';
